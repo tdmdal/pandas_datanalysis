@@ -4,7 +4,7 @@ title: "Data Analysis using Pandas"
 
 <!-- * [Slides](introtopythonpandas.pdf) -->
 * Python Notebooks
-    1. Data Analysis Using Pandas (<a href="Getting_Started_with_Python_Pandas.ipynb" download="Getting_Started_with_Python_Pandas.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/sklearn-workshop/blob/main/docs/Getting_Started_with_Python_Pandas.ipynb) )
+    1. Data Analysis Using Pandas (<a href="Getting_Started_with_Python_Pandas.ipynb" download="Getting_Started_with_Python_Pandas.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/pandas_datanalysis/blob/main/docs/Getting_Started_with_Python_Pandas.ipynb) )
 * Data
     1. Chicago Transit Ridership Data (<a href="cta-ridership-original.csv" download="cta-ridership-original.csv">Download</a>) 
     
