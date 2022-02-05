@@ -1,3 +1,5 @@
 *.pptx
 *.png
 .Rproj.user
+.gitignore
+
