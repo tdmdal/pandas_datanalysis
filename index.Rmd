@@ -1,0 +1,21 @@
+---
+title: "Data Analysis using Pandas"
+---
+
+<!-- * [Slides](introtopythonpandas.pdf) -->
+* Python Notebooks
+    1. Data Analysis Using Pandas (<a href="Getting_Started_with_Python_Pandas.ipynb" download="Getting_Started_with_Python_Pandas.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/sklearn-workshop/blob/main/docs/Getting_Started_with_Python_Pandas.ipynb) )
+* Data
+    1. Chicago Transit Ridership Data (<a href="cta-ridership-original.csv" download="cta-ridership-original.csv">Download</a>) 
+    
+* Other Resources:   
+    1. [Composing Programs](http://composingprograms.com/)
+    2. [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+    3. [Python Style Guide](https://pep8.org/#introduction)
+    4. [Python Data Science Essential Training](https://www.lynda.com/Python-tutorials/Python-Data-Science-Essential-Training/520233-2.html) (login [here](http://main.its.utoronto.ca/news/free-access-to-lynda-com-online-courses/) for UofT free access)
+    5. [Python Standard Library](https://docs.python.org/3/library/)
+    6. [Numpy User Guide](https://www.numpy.org/devdocs/user/index.html)
+    7. [Pandas](http://pandas.pydata.org/pandas-docs/stable/index.html)
+    8. [Introducing Python by TDMDAL F2019](https://tdmdal.github.io/python-workshop/)
+    
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
