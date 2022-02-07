@@ -2,7 +2,7 @@
 title: "Data Analysis using Pandas"
 ---
 
-<!-- * [Slides](introtopythonpandas.pdf) -->
+* [Slides](Python_Basic_Intro.pdf)
 * Python Notebooks
     1. Data Analysis Using Pandas (<a href="Getting_Started_with_Python_Pandas.ipynb" download="Getting_Started_with_Python_Pandas.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/pandas_datanalysis/blob/main/docs/Getting_Started_with_Python_Pandas.ipynb) )
 * Data
