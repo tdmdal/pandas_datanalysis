@@ -5,7 +5,7 @@ title: "Data Analysis using Pandas"
 * [Slides](Python_Basic_Intro.pdf)
 * Python Notebooks
     1. Data Analysis Using Pandas Part 1 (<a href="Getting_Started_with_Python_Pandas.ipynb" download="Getting_Started_with_Python_Pandas.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/pandas_datanalysis/blob/master/docs/Getting_Started_with_Python_Pandas.ipynb) )
-    <!-- 2. Data Analysis Using Pandas Part 2 (<a href="Digging_Deeper_with_Pandas_Sklearn.ipynb" download="Digging_Deeper_with_Pandas_Sklearn.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/pandas_datanalysis/blob/master/docs/Digging_Deeper_with_Pandas_Sklearn.ipynb) ) -->
+    2. Data Analysis Using Pandas Part 2 (<a href="Digging_Deeper_with_Pandas_Sklearn.ipynb" download="Digging_Deeper_with_Pandas_Sklearn.ipynb">Download</a> or [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/pandas_datanalysis/blob/master/docs/Digging_Deeper_with_Pandas_Sklearn.ipynb) )
 * Data
     1. Chicago Transit Ridership Data (<a href="cta-ridership-original.csv" download="cta-ridership-original.csv">Download</a>) 
     
